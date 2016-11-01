@@ -5,11 +5,14 @@ import java.awt.*
 
 public class BonjourGraph{
 
+//Methode principale 
+
 public static void main(String [] args){
 
 Frame fen;
 fen = new Frame(" Message De Bienvenue ");
-fen.setSize(250,100);
-fen.setVisible(true);
+fen.setSize(250,100);// La taille de la fenetre 
+
+fen.setVisible(true);//Permet l'affichage 
 }
 }
