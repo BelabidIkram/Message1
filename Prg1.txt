@@ -1,0 +1,12 @@
+import java.awt.* 
+
+public class BonjourGraph{
+
+public static void main(String [] args){
+
+Frame fen;
+fen = new Frame(" Message De Bienvenue ");
+fen.setSize(250,100);
+fen.setVisible(true);
+}
+}
