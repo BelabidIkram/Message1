@@ -1,5 +1,8 @@
 import java.awt.* 
 
+// classe BonjourGraph 
+// Creation d'une fenetre graphique
+
 public class BonjourGraph{
 
 public static void main(String [] args){
